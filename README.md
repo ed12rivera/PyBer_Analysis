@@ -14,7 +14,7 @@ The purpose of the analysis is to determine what communities, if any, we are not
 By summarizing the different KPIs into a single data frame comparing the different city types we can get a quick glimpse at how the data varies.  We can see the obvious result that as population of a community increases, so does the number of rides and the number of drivers.  We also notice that as the number of rides and drivers increases, the average fare per ride and the average fare per driver decreases. This negative relationship between number of rides and average fare per ride may be better seen in the following bubble chart showing the trend.
  
  ![bubble_chart](Analysis/Fig1.png)
- <img src="Analysis/Fig1.png" width="100" height="100"/>
+ <img src="Analysis/Fig1.png" width="800" height="800"/>
 
  
  Fares per ride in rural areas are on average $10 (29%) higher than in urban areas and about $4 (11%) higher than suburban areas, and total rides in rural areas were 1,500 (1200%) fewer than in urban areas and 500 (400%) fewer than in suburban areas.  It is clear to see the disparity between the different types of cities, but also clear that the difference in number of rides is much more drastic than the difference in average fares. The following box-and-whisker plots show average fare per ride distribution and ride count distribution across the different city types.  You can see that although average fare per ride is higher in rural cities there is still a lot of overlap of fare prices in the different city types.
