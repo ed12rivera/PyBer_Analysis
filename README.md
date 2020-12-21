@@ -18,7 +18,7 @@ By summarizing the different KPIs into a single data frame comparing the differe
  
  Fares per ride in rural areas are on average $10 (29%) higher than in urban areas and about $4 (11%) higher than suburban areas, and total rides in rural areas were 1,500 (1200%) fewer than in urban areas and 500 (400%) fewer than in suburban areas.  It is clear to see the disparity between the different types of cities, but also clear that the difference in number of rides is much more drastic than the difference in average fares. The following box-and-whisker plots show average fare per ride distribution and ride count distribution across the different city types.  You can see that although average fare per ride is higher in rural cities there is still a lot of overlap of fare prices in the different city types.
 ![fare_data_box](Analysis/Fig3.png) ![ride_count_box](Analysis/Fig2.png)
-<fare_data_baw src="Analysis/Fig3.png" width="400" height="240"/>  <ride_count_baw src="Analysis/Fig2.png" width="400" height="240"/>
+<img src="Analysis/Fig3.png" width="400" height="240"/>  <img src="Analysis/Fig2.png" width="400" height="240"/>
 
 ### Driver Count vs. Average Fare per Driver
 The distribution of total drivers more closely follows the distribution of total rides. However, the difference between the average number of drivers as well as the highest number of drivers in urban and rural cities is much more extreme that when looking at the number of rides.  Urban cities had far more drivers than rural, and we saw the average fare per driver was much higher in rural and suburban areas than in urban areas.  This may suggest that the best way to decrease fares may be to increase the number of drivers in urban areas. 
